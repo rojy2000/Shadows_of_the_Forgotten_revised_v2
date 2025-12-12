@@ -10,6 +10,7 @@ These rules form the backbone of gameplay: how actions are resolved, how difficu
 [[Passive Checks and Assistance]]
 [[Conditions]]
 [[Rest and Recovery]]
+[[Resonance and Burn]]
 
 
 ---
